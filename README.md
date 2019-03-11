@@ -2,10 +2,14 @@
 A simple application, built with React Native, for scalable projects using Redux + React Navigation + Code Push + Realm + Axios + i18n + Google Analytics + Facebook login with fbsdk...
 
 ## Screenshots
-- Splash screen: <img src="screenshots/1.png" width="30%">
-- Login: <img src="screenshots/2.png" width="30%"> 
-- Login by Facebook: <img src="screenshots/3.png" width="30%">
-- Menu: <img src="screenshots/4.png" width="30%">
+- Splash screen: 
+<img src="screenshots/1.png" width="30%">
+- Login: 
+<img src="screenshots/2.png" width="30%"> 
+- Login by Facebook: 
+<img src="screenshots/3.png" width="30%">
+- Menu: 
+<img src="screenshots/4.png" width="30%">
 
 ## Important dependencies:
 
